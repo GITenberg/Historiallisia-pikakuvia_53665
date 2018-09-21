@@ -1,0 +1,37 @@
+_repo: Historiallisia-pikakuvia_53665
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Murros, Kaapo
+    alias: Ahlqvist, David Gabriel
+    birthdate: 1875
+    deathdate: 1951
+    gutenberg_agent_id: '48786'
+    url: http://www.gutenberg.org/2009/agents/48786
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: 'Translated selections from: Historiska miniatyrer.'
+gutenberg_issued: '2016-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53665'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'Manners and customs -- Fiction'
+- GITenberg
+tableOfContents: Egyptin orjuus -- Puoliympyrä Athenassa -- Alkibiades -- Sokrates
+  -- Leontopolis -- Karitsa -- Petoeläin -- Luopio -- Attila.
+title: Historiallisia pikakuvia
+url: http://www.gutenberg.org/ebooks/53665
